@@ -1,4 +1,4 @@
-### Olá!!! Eu sou o Eduardo Rodrigo dos Santos, criador de conteudos de programação e tecnologia!
+### Olá!!! Eu sou o Eduardo Rodrigo dos Santos, criador de conteúdos de programação e tecnologia!
 
 - 🔭 Eu hoje estou trabalhando com java FrameWork Spring
 - 🌱 Eu estou estudando golang e arquitetura de software
