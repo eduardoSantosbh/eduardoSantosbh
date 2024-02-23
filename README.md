@@ -1,4 +1,4 @@
-### Olá, Olá!!! Eu sou o Eduardo Rodrigo dos Santos!
+### Olá!!! Eu sou o Eduardo Rodrigo dos Santos!
 
 ##
 
